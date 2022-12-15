@@ -1,2 +1,3 @@
-# UCF-Module-1-LA
-module 1 challenge
+# Horiseon Web challenge
+## UCF Module 1
+
