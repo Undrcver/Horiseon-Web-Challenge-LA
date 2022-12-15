@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Changed from hero tag to main-photo tag to have a simplier description for main website photo */
 .main-photo {
     height: 800px;
     width: 100%;
@@ -87,7 +87,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* consolidated all excess code to make easier nagivation in css file */
 .lead,
 .brand,
 .cost {
