@@ -1,3 +1,3 @@
 # Horiseon Web challenge
-##UCF Module 1
+## UCF Module 1
 
